@@ -1,6 +1,6 @@
 export default class Component {
     constructor(props) {
-        this.title = props.title || 'Default Title';
+        this.title = props.title || 'Untitled Component';
     }
 
     render() {
