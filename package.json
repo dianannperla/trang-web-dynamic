@@ -1,0 +1,27 @@
+{
+  "name": "trang-web-dynamic",
+  "version": "1.0.0",
+  "description": "Framework frontend cho ứng dụng web động.",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/trang-web-dynamic.git"
+  },
+  "keywords": [
+    "frontend",
+    "dynamic",
+    "web",
+    "framework"
+  ],
+  "author": "Tên bạn",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.0.0",
+    "jest": "^26.0.0"
+  }
+}
